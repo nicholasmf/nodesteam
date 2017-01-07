@@ -1,0 +1,21 @@
+﻿body {
+}
+
+.teamRadiant li, .teamDire li {
+	margin-bottom: 3pt;
+	margin-top: 3pt;
+}
+
+.teamRadiant {
+	color: darkred;
+}
+
+.teamDire {
+	color: darkgreen;
+}
+
+.warningSpan {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    color: crimson;
+}
